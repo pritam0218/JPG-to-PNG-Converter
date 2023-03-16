@@ -4,6 +4,7 @@ body {
   background-image: url(./Background\ GIF\ -\ Find\ &\ Share\ on\ GIPHY.gif) ;
   background-repeat: no-repeat;
   background-size: cover;
+  display: flex;
 }
 
 h1 {
